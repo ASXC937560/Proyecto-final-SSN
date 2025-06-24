@@ -4,4 +4,6 @@ Con el jupyter notebook anteriormente mencionado y los resultados de la simulaci
 
 Con el jupyter notebook vemos la densidad electrónica del LUMO y HOMO y de al aplicar 5V y -6V, esto se guarda en la carpeta results.
 
-En analysis, hay las imagenes de la densidad electrónica LUMO y HOMO y de los estados accesibles al aplicar 5V y -6V, por último, y más importante en la carpeta STM images están las imagenes de los estados ocupados (corresponden al aplicar 5 V) y los estados vacios (corresponden al aplicar -6V) de la serotonina los cuales se podrían ver en un laboratoria real mediante microscopía STM.
+En analysis, hay las imagenes de la densidad electrónica LUMO y HOMO y de los estados accesibles al aplicar 5V y -6V.
+
+Por último, y más importante en la carpeta STM images están las imagenes de los estados ocupados (corresponden al aplicar 5 V) y los estados vacios (corresponden al aplicar -6V) de la serotonina los cuales se podrían ver en un laboratoria real mediante microscopía STM.
