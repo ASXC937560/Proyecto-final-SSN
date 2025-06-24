@@ -4,6 +4,6 @@ Input: Contiene los pseudopotenciales para H,C,O,N, el .fdf de la serotonina y e
 
 Run: Contine la simulación, archivos más útiles son el .log ver como ha ido la simulación, el .MDE de este salen los datos y los gráficos de la carpeta graphs y el .ANI ver la animación de la minimización de la energía.
 
-Graphs: Contiene gráficos para comprovar que se ha realizado la minimización de la energía potencial, optimizando la geometría de la molécula.
+Graphs: Contiene gráficos para comprovar que se ha realizado la minimización de la energía potencial optimizando la geometría de la molécula.
 
 Por último, un video de la molécula optimizada (el.mpg).
