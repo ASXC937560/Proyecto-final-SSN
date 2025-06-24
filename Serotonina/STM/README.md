@@ -8,4 +8,4 @@ Con el jupyter notebook vemos la densidad electrónica del HOMO y LUMO y de al a
 
 En analysis, hay las imagenes de la densidad electrónica HOMO y LUMO y de los estados accesibles al aplicar 5V y -6V.
 
-Por último, y más importante en la carpeta STM images están las imagenes STM de los estados ocupados (corresponden al aplicar 5 V) y los estados vacios (corresponden al aplicar -6V) de la serotonina los cuales se podrían ver en un laboratorio real mediante microscopía STM.
+Por último, y más importante en la carpeta STM images están las imagenes STM de los estados ocupados (corresponden al aplicar 5V) y los estados vacios (corresponden al aplicar -6V) de la serotonina los cuales se podrían ver en un laboratorio real mediante microscopía STM.
