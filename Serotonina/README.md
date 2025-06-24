@@ -6,4 +6,4 @@ Optimization: Contiene la minimización de la energía de la serotonina para obt
 
 
 STM: Contiene la simulación por STM, donde mediante un jupyter notebook obtenemos los distintos estados de la serotonina, la densidad electrónica del HOMO y LUMO, la densidad electrónica al aplicar un voltaje de 5V y de -6V.
-Por último, como se verían los estados ocupados y vacios de la serotonina mediante SMT al aplicar estos voltajes.
+Por último, como se verían los estados ocupados y vacios de la serotonina mediante STM al aplicar estos voltajes.
