@@ -1,5 +1,7 @@
 Las imagenes están en el plano XY y se dibiden entre 1,2,3,4,5.
 
+Alturas:
+
 1- 0,35
 
 2- 0,43
