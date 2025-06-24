@@ -1,4 +1,6 @@
-Aquí hacemos la simulación STM en la carpeta run a partir de los pseudopotenciales de C,H,O y N, el stm.fdf y el structure.fdf. Con la geometría optimizada anteriormente (optimization.xyz) generamos a partir del jupyter notebook (STM_Final_Version) la molecula centrada y en versión .fdf para la simulación (structure.fdf).
+Con la geometría optimizada anteriormente (optimization.xyz) generamos a partir del jupyter notebook (STM_Final_Version) la molecula centrada y en versión .fdf para la simulación (structure.fdf).
+
+Hacemos la simulación STM en la carpeta run a partir de los pseudopotenciales de C,H,O y N, el stm.fdf y el structure.fdf.
 
 Con el jupyter notebook anteriormente mencionado y los resultados de la simulación en la carpeta run obtenemos el Hamiltoniano, a partir de este vemos los autoestados (cuantos hay y su energía en eV), vemos el HOMO y el LUMO y la densidad de estados en un rango de energía de -10 a 10 eV.
 
