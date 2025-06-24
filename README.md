@@ -1,2 +1,2 @@
 # Proyecto-final-SSN
-Este es el proyecto final de la asignatura SSN, el proyecto consiste en poder reconocer y distinguir la bufotenina, la serotonina y el DMT mediante el STM.
+Este es el proyecto final de la asignatura SSN. El proyecto consiste en poder reconocer y distinguir mediante el STM 3 moleculas muy parecidas, en concreto son la bufotenina, la serotonina y el DMT.
