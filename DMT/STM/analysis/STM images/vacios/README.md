@@ -1,4 +1,4 @@
-Las imagenes están en el plano XY y se dibiden entre 1,2,3.
+Las imagenes están en el plano XY y se dibiden entre 1,2,3,4
 
 Alturas:
 
@@ -7,3 +7,5 @@ Alturas:
 2- 0,24
 
 3- 0,21
+
+4- 0,17
